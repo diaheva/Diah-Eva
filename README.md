@@ -29,12 +29,12 @@
             </div>
             <div class="project-item">
                 <h3>Pendidikan</h3>
-                <p>-Pendidikan
-                1. TK Husnul Huda
-                2. SDN Serang 19
-                3. SMPN 14 Kota Serang
-                4. SMAN 3 Kota Serang
-                5. Universitas Chulalongkorn (AAMIIN YA ALLAH)</p>
+                <p>-Pendidikan</p>
+               <p>1. TK Husnul Huda</p>
+                <p>2. SDN Serang 19</p>
+                <p>3. SMPN 14 Kota Serang</p>
+                <p>4. SMAN 3 Kota Serang</p>
+                <p></p>5. Universitas Chulalongkorn (AAMIIN YA ALLAH)</p>
             </div>
             <div class="project-item">
                 <h3>Proyek 3</h3>
