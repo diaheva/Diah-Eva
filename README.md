@@ -13,9 +13,8 @@
 <div class="container">
     <div class="section" id="about">
         <h2>Tentang Saya</h2>
-        <p>Perkenalkan, saya DIAH EVA tapi saya lebih senang jika di panggil dengan panggilan Eva atau pacar Nanon atau pacar Haechan juga boleh, sedikit informasi tentang diri saya yaitu saya suka dengan makanan dengan cita rasa yang pedas dan gurih saya kurang suka makanan yang memiliki cita rasa manis karena menurut saya, saya itu sudah manis (maaf kepedean, tapi gapapa) saya juga lebih suka mendengarkan cerita orang di bandingkan saya yang harus bercerita, karena menurut saya mendengarkan cerita orang-orang itu sangat menyenangkan, meskipun saya ga terlalu bisa merespon dengan baik tapi saya senang jika orang lain mau bercerita kesehariannya kepada saya.</p>
-    </div>
-
+        <p>Perkenalkan, saya DIAH EVA tapi saya lebih senang jika di panggil dengan panggilan Eva atau pacar Nanon atau pacar Haechan juga boleh, sedikit informasi tentang diri saya yaitu saya suka dengan makanan dengan cita rasa yang pedas dan gurih saya kurang suka makanan yang memiliki cita rasa manis karena menurut saya, saya itu sudah manis (maaf kepedean, tapi gapapa) saya juga lebih suka mendengarkan cerita orang di bandingkan saya yang harus bercerita, karena menurut saya mendengarkan cerita orang-orang itu sangat menyenangkan, meskipun saya ga terlalu bisa merespon dengan baik tapi saya senang jika orang lain mau bercerita kesehariannya kepada saya. Saya memiliki rasa trust issue yang sangat kuat terhadap setiap orang yang baru saya jumpai, saya lahir pada 11 januari 2007 dan zodiak saya capricorn (sebenernya sih ga percaya zodiak tapi yaudalah saya tulis aja)</p>
+    </div> 
 <header>
         <h2>Beberapa fakta tentang saya</h2>
         <div class="project">
