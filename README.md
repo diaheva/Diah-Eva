@@ -34,15 +34,11 @@
                 <p>4. SMAN 3 Kota Serang</p>
                 <p></p>5. Universitas Chulalongkorn (AAMIIN YA ALLAH)</p>
             </div>
-            <div class="project-item">
-                <h3>Proyek 3</h3>
-                <p>Deskripsi singkat tentang proyek 3.</p>
-            </div>
         </div>
 </header>
 <header>
         <h2>Kontak</h2>
-        <p>Anda dapat menghubungi saya melalui email: <a href="mailto:email@example.com">email@example.com</a></p>
+        <p>Anda dapat menghubungi saya melalui email: <a href="mailto:email@example.com">diaheva03@gmail.com</a></p>
 </header>
 
 </body>
