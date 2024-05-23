@@ -28,8 +28,13 @@
                 Saya sangat menyukai dunia per-kpopan dan juga thailand, sebenarnya masih banyak yang saya suka tapi saya tuliskan dua saja, nanon adalah aktor dari agensi gmmtv dan haechan adalah idol yang berasal dari SM entertaiment, selain tampan mereka juga sangat hebatt maka dari itu saya sangat menyukai mereka berdua.</p>
             </div>
             <div class="project-item">
-                <h3>Proyek 2</h3>
-                <p>Deskripsi singkat tentang proyek 2.</p>
+                <h3>Pendidikan</h3>
+                <p>-Pendidikan
+                1. TK Husnul Huda
+                2. SDN Serang 19
+                3. SMPN 14 Kota Serang
+                4. SMAN 3 Kota Serang
+                5. Universitas Chulalongkorn (AAMIIN YA ALLAH)</p>
             </div>
             <div class="project-item">
                 <h3>Proyek 3</h3>
