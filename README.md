@@ -9,7 +9,9 @@
 <header>
     <h1>Portfolio Saya</h1>
 </header>
+
 ![alt teks](https://github.com/diaheva/index.html/blob/main/b9769f58-e5bd-449a-8c62-b5ba8bf02bc6.jpg?raw=true)
+
 <div class="container">
     <div class="section" id="about">
         <h2>Tentang Saya</h2>
