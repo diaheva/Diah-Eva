@@ -17,11 +17,15 @@
     </div>
 
 <header>
-        <h2>Proyek</h2>
+        <h2>Beberapa fakta tentang saya</h2>
         <div class="project">
             <div class="project-item">
-                <h3>Proyek 1</h3>
-                <p>Deskripsi singkat tentang proyek 1.</p>
+                <h3>Hobi dan kesukaan</h3>
+                <p>- Membaca novel atau au
+                Saya sangat menyukai novel dan juga au, menurut saya membaca novel ataupun au itu sangat menyenangkan, meskipun membaca itu tidak dapat melihat secara langsung kejadian nya tetapi kita masih bisa membayangkan nya.
+                - Nanon dan Haechan
+                Saya sangat menyukai dunia per-kpopan dan juga thailand, sebenarnya masih banyak yang saya suka tapi saya tuliskan dua saja, nanon adalah aktor dari agensi gmmtv dan haechan adalah idol yang berasal dari SM entertaiment, selain tampan mereka juga sangat hebatt maka dari itu saya sangat menyukai mereka berdua.
+                </p>
             </div>
             <div class="project-item">
                 <h3>Proyek 2</h3>
