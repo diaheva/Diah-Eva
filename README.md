@@ -29,7 +29,6 @@
             </div>
             <div class="project-item">
                 <h3>Pendidikan</h3>
-                <p>-Pendidikan</p>
                <p>1. TK Husnul Huda</p>
                 <p>2. SDN Serang 19</p>
                 <p>3. SMPN 14 Kota Serang</p>
